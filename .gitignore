@@ -1,0 +1,29 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# IDE 配置（如 PyCharm、VSCode）
+.idea/
+.vscode/
+
+# macOS 系统文件
+.DS_Store
+
+# 数据文件
+data/
+*.csv
+*.txt
+
+# 输出图像
+prediction_evolution.png
+energy_vs_error.png
+scatter_energy_error.png
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
