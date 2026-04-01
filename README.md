@@ -75,9 +75,6 @@ Prediction Evolution – shows how iterative energy updates refine the forecast.
 Energy vs. Error – compares the energy score with the prediction error over time.  
 ![Energy vs error](result/energy_vs_error.png)
 
-Scatter Plot – quantifies the correlation (Pearson coefficient ≈ 0.6).  
-<img src="result/scatter_energy_error.png" alt="Prediction evolution" width="60%">
-
 These results confirm the main claim of the paper: the energy score serves as a reliable proxy for prediction error.
 
 ## 📚 Citation
