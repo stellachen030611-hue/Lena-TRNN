@@ -97,7 +97,4 @@ If you use this code for your research, please cite the original paper:
 
 This project is released under the MIT License. See `LICENSE` for details.
 
----
-
 Note: The code is provided for research and educational purposes. The implementation may not exactly match the original paper’s hyperparameters; feel free to adjust them in `train.py`.
-```
